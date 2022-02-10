@@ -1,6 +1,6 @@
 # Fantasy Football 2022 by Gareth Dooling
 
-## Part 1: Objective
+# Objective
 
 - To create a web application that integrates with a database and demonstrates CRUD functionality.
 - To utilise containers to host and deploy the application.
@@ -19,16 +19,19 @@ This will require use of the following technologies/concepts:
 - Cloud Fundamentals
 - Containerisation
 
-## Part 2: Project Initiation
+## Part 1: Project Initiation
 
 I propose to create a simple fantasy football application that allows a user to create football teams and add players to them.
 
-## Part 3: Planning, Design & Project Tracking
+## Part 2: Planning, Design & Project Tracking
 
-### 3.1 Jira
+### 2.1 Jira
 
 ![image](https://user-images.githubusercontent.com/97617047/153412116-38921f79-558d-4b25-a836-182366f061f2.png)
 
-### 3.2 Entity Diagrams
+### 2.2 Entity Diagrams
 
 ![image](https://user-images.githubusercontent.com/97617047/153414112-e41c3777-23a0-4d9c-ac16-7d2bf1af88c5.png)
+![image](https://user-images.githubusercontent.com/97617047/153424262-8346e0b2-5d3b-48e1-9f6d-7bf086995a88.png)
+
+
