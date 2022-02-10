@@ -21,7 +21,7 @@ This will require use of the following technologies/concepts:
 
 ## Part 1: Project Initiation
 
-I propose to create a simple fantasy football application that allows a user to create football teams and add players to them.
+I propose to create a simple fantasy football application relating to two tables; 'Team' and 'Players'. The app will demonstrate CRUD functionality so a user will be able to create, read, update and delete teams and players. 
 
 ## Part 2: Planning, Design & Project Tracking
 
