@@ -31,7 +31,7 @@ I propose to create a simple fantasy football application relating to two tables
 
 ### 2.2 Entity Diagrams
 
-![image](https://user-images.githubusercontent.com/97617047/153414112-e41c3777-23a0-4d9c-ac16-7d2bf1af88c5.png)
+![image](https://user-images.githubusercontent.com/97617047/153456732-2fed12d4-139b-467d-8384-b592451bfde2.png)
 ![image](https://user-images.githubusercontent.com/97617047/153424262-8346e0b2-5d3b-48e1-9f6d-7bf086995a88.png)
 
 
